@@ -1,4 +1,3 @@
 if __name__ == "__main__":
-    a = int(input())
-    b = int(input())
+    a,b = int(input().split(" "))
     print(a**2+b**2,end="")
