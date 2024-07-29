@@ -1,0 +1,18 @@
+title: Fib
+time_limit: 200
+memory_limit: 65536 
+scores:
+    1: 10
+    2: 69
+    3: 30
+    4: 30
+time_limits:
+    3: 1000
+    4: 20000
+memory_limits:
+    3: 200000
+    4: 500
+
+override_tests:
+    py:
+        time_limit: 2000
